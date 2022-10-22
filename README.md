@@ -1,7 +1,7 @@
 # Centralized-Multi-User-Concurrent-Bank-Account-Manager
 
 This project is implemented using TCP Sockets for communication between multiple clients and servers.
- All tests are performed on Ubuntu 22.04.1 (Jammy Jellyfish)
+1. All tests are performed on Ubuntu 22.04.1 (Jammy Jellyfish)
 # Working of server- 
  1. The server program is executed with command line arguments specifying the port number and the name of the file which will act as the database on the server i.e., “Records.txt”.
  2.  Socket system calls are called to create a socket, bind the server socket with the client.
